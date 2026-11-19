@@ -1,0 +1,11 @@
+Instagram integration test!
+
+If you are seeing this post, it means our AutoPoster has successfully expanded its reach. We have officially rolled out Instagram support, allowing us to seamlessly push content to one more platform alongside LinkedIn.
+
+The same core reliability features—duplicate detection, automated scheduling, and crash recovery—are now powering our Instagram workflow. It’s a big step forward in simplifying our social media presence.
+
+Building robust multi-platform automation is a great engineering challenge, and we are thrilled to see it come together
+
+What platform should we tackle next? Let us know!
+
+#Automation #SoftwareEngineering #InstagramAPI #TechInnovation #AutoPoster #MultiPlatform
